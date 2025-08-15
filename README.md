@@ -4,11 +4,19 @@
 
 A curated, practical resource for AI engineers building with Large Language Models. This toolkit includes battle-tested tools, frameworks, templates, and reference implementations for developing, deploying, and optimizing LLM-powered systems.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/yourgithubusername/ai-engineering-toolkit.svg?style=social)](https://github.com/yourgithubusername/ai-engineering-toolkit/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourgithubusername/ai-engineering-toolkit.svg?style=social)](https://github.com/yourgithubusername/ai-engineering-toolkit/network/members)
-[![X Follow](https://img.shields.io/twitter/follow/Sumanth_077?style=social&logo=x)](https://x.com/Sumanth_077)
+[![Toolkit banner](https://github.com/codedspaces/demo-2/blob/d9442b179eba2856e8c6e62bb1c6a1bb8c676b89/2.jpg?raw=true)](https://aiengineering.beehiiv.com/subscribe)
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://x.com/Sumanth_077">
+    <img src="https://img.shields.io/twitter/follow/Sumanth_077?style=social&logo=x" alt="X Follow">
+  </a>
+  <a href="https://www.linkedin.com/company/theaiengineering/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 ## 📋 Table of Contents
 
@@ -21,9 +29,14 @@ A curated, practical resource for AI engineers building with Large Language Mode
   - [Data Collection & Web Scraping](#data-collection--web-scraping)
 - [🤖 Agent Frameworks](#-agent-frameworks)
 - [📦 LLM App Templates](#-llm-app-templates)
+  - [LLM Development & Optimization](#llm-development--optimization)
+  - [LLM Inference](#llm-inference)
+  - [LLM Safety & Security](#llm-safety--security)
+  - [Utilities](#utilities)
 - [🚀 Infrastructure & Deployment](#-infrastructure--deployment)
-- [📚 Tutorials & Notebooks](#-tutorials--notebooks)
-- [📰 Newsletter Companion Demos](#-newsletter-companion-demos)
+  - [Local Development & Serving](#local-development--serving)
+  - [Production Serving](#production-serving)
+  - [Inference Platforms](#inference-platforms)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
