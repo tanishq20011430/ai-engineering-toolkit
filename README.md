@@ -10,12 +10,6 @@ A curated, list of 100+ libraries and frameworks for AI engineers building with 
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
-  <a href="https://x.com/Sumanth_077">
-    <img src="https://img.shields.io/twitter/follow/Sumanth_077?style=social&logo=x" alt="X Follow">
-  </a>
-  <a href="https://www.linkedin.com/company/theaiengineering/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
-  </a>
 </p>
 
 ## 📋 Table of Contents
